@@ -10,7 +10,7 @@ from flask import Flask, redirect, url_for, request, render_template
 from werkzeug.utils import secure_filename
 
 # Define a flask app
-app = Flask(__name__)
+app_1 = Flask(__name__)
 
 # Model saved with Keras model.save()
 MODEL_PATH = 'model_ibm_image_classification.h5'
