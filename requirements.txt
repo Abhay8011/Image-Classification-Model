@@ -13,7 +13,7 @@ idna==2.9
 ImageHash==4.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib==0.15.1
+joblib==1.2.0
 kaggle==1.5.6
 Keras==2.3.1
 Keras-Applications==1.0.8
